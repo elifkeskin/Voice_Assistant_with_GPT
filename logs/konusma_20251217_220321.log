@@ -1,0 +1,17 @@
+2025-12-17 22:03:22,029 - INFO - --- GPT Sesli Chatbot Başladı----
+2025-12-17 22:03:22,029 - INFO - Konuşma log dosyası: logs/konusma_20251217_220321.log
+2025-12-17 22:03:22,029 - INFO - Mikrofondan ses kaydı başlatıldı
+2025-12-17 22:03:27,351 - INFO - Ses kaydı tamamlandı: record_eddf8f85-547d-453f-bf28-1acb1fe32300.wav
+2025-12-17 22:03:27,351 - INFO - Whisper ile ses yazıya çeviriliyor
+2025-12-17 22:03:31,029 - INFO - HTTP Request: POST https://api.openai.com/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2025-12-17 22:03:31,036 - INFO - Kullanici (raw): Merhaba GPT, yapay zekân nedir?
+2025-12-17 22:03:31,045 - INFO - GPT ile cevap veriliyor
+2025-12-17 22:03:32,138 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-17 22:03:32,155 - INFO - GPT Yanıt: Merhaba! Yapay zeka, insan gibi davranabilen bilgisayar sistemlerinin tasarımı ve geliştirilmesi ile ilgilenen bilim dalıdır. Yapay zeka, bilgisayarların düşünme, öğrenme, problem çözme ve karar verme gibi insan benzeri yetenekler kazanmasını sağlar. Bu sayede, yapay zeka birçok alanda kullanılarak insanlara yardımcı olabilir ve birçok işi daha etkin bir şekilde yapabilir.
+2025-12-17 22:03:32,157 - INFO - --- GPT Sesli Chatbot Bitti----
+2025-12-17 22:03:32,158 - INFO - Mikrofondan ses kaydı başlatıldı
+2025-12-17 22:03:37,442 - INFO - Ses kaydı tamamlandı: record_3393d3f2-d9dd-4f44-bc4b-88f84976eeee.wav
+2025-12-17 22:03:37,442 - INFO - Whisper ile ses yazıya çeviriliyor
+2025-12-17 22:03:40,561 - INFO - HTTP Request: POST https://api.openai.com/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2025-12-17 22:03:40,561 - INFO - Kullanici (raw): Bitirebilirsin.
+2025-12-17 22:03:40,568 - INFO - Çıkış komutu algılandı, program sonlandırılıyor.
