@@ -21,7 +21,7 @@ A voice-based conversational AI assistant powered by OpenAI's GPT-3.5-turbo and 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/elifkeskin/GPT_ile_Sesli_Asistan.git
+   git clone https://github.com/elifkeskin/Voice_Assistant_with_GPT.git
    cd GPT_ile_Sesli_Asistan
    ```
 
